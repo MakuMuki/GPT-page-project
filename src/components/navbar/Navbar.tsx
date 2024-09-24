@@ -9,7 +9,7 @@ const Menu = () => (
       <a href="#home">首页</a>
     </p>
     <p>
-      <a href="#GPT">GPT是什么</a>
+      <a href="#intro">GPT是什么</a>
     </p>
     <p>
       <a href="#openai">Open AI</a>
