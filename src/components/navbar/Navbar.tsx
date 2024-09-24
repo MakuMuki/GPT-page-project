@@ -18,7 +18,7 @@ const Menu = () => (
       <a href="#possibility">能力</a>
     </p>
     <p>
-      <a href="#library">库</a>
+      <a href="#blog">博客</a>
     </p>
   </>
 );

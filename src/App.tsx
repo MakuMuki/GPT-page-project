@@ -3,6 +3,7 @@ import "./index.css";
 
 import { Navbar } from "./components";
 import {
+  Blog,
   Brand,
   Features,
   Footer,
@@ -22,6 +23,7 @@ function App() {
       <Introduction />
       <Features />
       <Possibility />
+      <Blog />
       <Footer />
     </div>
   );
