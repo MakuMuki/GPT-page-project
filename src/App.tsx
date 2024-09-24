@@ -2,7 +2,14 @@ import "./App.css";
 import "./index.css";
 
 import { Navbar } from "./components";
-import { Brand, Features, Footer, Header, Introduction } from "./containers";
+import {
+  Brand,
+  Features,
+  Footer,
+  Header,
+  Introduction,
+  Possibility,
+} from "./containers";
 
 function App() {
   return (
@@ -14,6 +21,7 @@ function App() {
       <Brand />
       <Introduction />
       <Features />
+      <Possibility />
       <Footer />
     </div>
   );

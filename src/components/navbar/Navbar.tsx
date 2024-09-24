@@ -12,10 +12,10 @@ const Menu = () => (
       <a href="#intro">GPT是什么</a>
     </p>
     <p>
-      <a href="#openai">Open AI</a>
+      <a href="#features">功能</a>
     </p>
     <p>
-      <a href="#case">示例</a>
+      <a href="#possibility">能力</a>
     </p>
     <p>
       <a href="#library">库</a>

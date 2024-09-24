@@ -22,7 +22,7 @@ const featuresData = [
 
 const Features = () => {
   return (
-    <div className="gpt__features section__padding" id="openai">
+    <div className="gpt__features section__padding" id="features">
       <div className="gpt__features-heading">
         <h1 className="gradient__text">
           你需要意识到，未来即是现在。今天起走进未来，让一切发生
