@@ -64,11 +64,6 @@
     margin: 1rem 0;
   }
 
-  .gpt__possibility-image img {
-    width: unset;
-    height: unset;
-  }
-
   .gpt__possibility-content {
     margin-top: 2rem;
   }
