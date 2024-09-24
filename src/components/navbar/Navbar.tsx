@@ -1,3 +1,4 @@
+import { FaGithub } from "@react-icons/all-files/fa/FaGithub";
 import { useState } from "react";
 import { RiCloseLine, RiMenu3Line } from "react-icons/ri";
 import logo from "../../assets/logo.svg";
@@ -36,6 +37,15 @@ const Navbar = () => {
         </div>
       </div>
       <div className="gpt__navbar-sign">
+        <a
+          href="https://github.com/MakuMuki/GPT-page-project"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="gpt__navbar-github"
+          aria-label="Github"
+        >
+          <FaGithub size={28} />
+        </a>
         <p>登录</p>
         <button type="button">注册</button>
       </div>

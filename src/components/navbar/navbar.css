@@ -97,6 +97,18 @@
   display: none;
 }
 
+.gpt__navbar-github {
+  display: flex;
+  align-items: center;
+  margin-right: 1rem;
+  color: #fff;
+  transition: color 0.2s;
+}
+
+.gpt__navbar-github:hover {
+  color: #ff4826;
+}
+
 @media screen and (max-width: 950px) {
   .gpt__navbar-links_container {
     display: none;
