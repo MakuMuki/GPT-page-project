@@ -12,6 +12,7 @@ dist
 dist.tar.gz
 dist-ssr
 *.local
+run.sh
 
 # Editor directories and files
 .vscode/*
